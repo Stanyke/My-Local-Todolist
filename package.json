@@ -1,0 +1,30 @@
+{
+  "name": "my-local-todolist",
+  "version": "1.0.0",
+  "description": "This is a Todolist built on NodeJS which equally stores the data (todo) on a cookie session, a local storage which is temporary available until the user closes the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanyke/My-Local-Todolist.git"
+  },
+  "keywords": [
+    "session",
+    "cookie",
+    "todolist"
+  ],
+  "author": "Stanley Chibuike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanyke/My-Local-Todolist/issues"
+  },
+  "homepage": "https://github.com/Stanyke/My-Local-Todolist#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
