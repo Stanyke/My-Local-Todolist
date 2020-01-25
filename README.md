@@ -4,14 +4,14 @@ This is a Todolist built on NodeJS which equally stores the data (todo) on a coo
 This web app uses a node module *ejs* to display its html page, which can be located at *views/todo.ejs*
 
 
-**To use this app**
+<u><b>To use this app</b></u>
 
 *-1- Clone it*
 
 *-2- run <b>npm install</b>, this will install all dependencies used in the package.json*
 
 
-<b>How This App Runs</b>
+**<u>How This App Runs</u>**
 
 **I've Commented The app.js and views/todo.ejs for better understanding as you read this**
 
